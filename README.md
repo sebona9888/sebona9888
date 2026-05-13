@@ -1,75 +1,70 @@
-<!-- HERO ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Sebona%20Haile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+Create a highly modern, futuristic GitHub profile README for Sebona Haile with a 3D space theme.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Apps;Clean+UI+%26+Scalable+Backend" />
-</p>
+Design Style:
+- Dark mode with galaxy / space aesthetic
+- Simulate 3D depth using layered visuals, gradients, and animated GIF backgrounds
+- Use glowing effects, neon accents (purple, blue, cyan)
+- Clean but eye-catching layout
 
----
+Sections to include:
 
-## 👨‍💻 About Me
+1. HERO SECTION (3D STYLE)
+- Add animated space or galaxy GIF banner
+- Title: "Hi 👋, I'm Sebona Haile"
+- Subtitle: "Full Stack MERN Developer 🚀"
+- Add typing animation (like: Building modern web apps... Learning... Growing...)
 
-- 🚀 Full Stack Developer (React + Node.js)
-- 🧠 Passionate about building real-world web apps
-- 🔥 Focused on clean UI + powerful backend
-- 🌱 Currently learning advanced backend architecture
-- 📫 Email: **sebonahaile@gmail.com**
-- ⚡ Fun fact: I turn coffee ☕ into code 💻
+2. 3D VISUAL EFFECTS
+- Use animated GIFs to simulate:
+  - floating planets 🌍
+  - stars ✨
+  - space travel 🚀
+- Add divider lines that look like neon or glowing
 
----
+3. ABOUT ME
+- Short intro:
+  - Passionate developer
+  - Building real-world apps
+  - Currently working on Burger Ordering System
+- Make it clean with icons
 
-## 🛠 Tech Stack
+4. TECH STACK (3D STYLE GRID)
+- Use skill icons (skillicons.dev)
+- Arrange like a futuristic panel
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode" />
-</p>
+5. FEATURED PROJECTS (GLASS STYLE)
+- Burger Ordering System
+- E-Commerce Cart
+- Admin Dashboard
+- Each project:
+  - Short description
+  - Add emoji icons
+  - Optional demo links
 
----
+6. GITHUB STATS (DASHBOARD STYLE)
+- GitHub stats card
+- Top languages
+- Streak stats
+- Use dark + neon theme (tokyonight or radical)
 
-## 📊 GitHub Stats
+7. 3D TOUCH (IMPORTANT)
+- Add animated GIF backgrounds behind sections
+- Use hover-style badges
+- Add glowing buttons (shields.io)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebona9888&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebona9888&layout=compact&theme=tokyonight" height="180"/>
-</p>
+8. CONTACT SECTION
+- Gmail: sebonahaile@gmail.com
+- GitHub: sebona9888
+- Styled as glowing badges
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebona9888&theme=tokyonight" />
-</p>
+9. BONUS
+- Contribution snake animation
+- Add a cool quote like:
+  "Code. Build. Repeat. 🚀"
 
----
-
-## 🚀 Featured Projects
-
-- 🍔 **Burger Ordering System** – Full stack food ordering app  
-- 🛒 **E-Commerce Cart System** – React + Context API  
-- 📦 **Admin Dashboard** – Modern UI dashboard for management  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:sebonahaile@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sebonahaile@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sebona9888">
-    <img src="https://img.shields.io/badge/GitHub-sebona9888-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer"/>
-</p>
+Requirements:
+- Output ONLY README.md code
+- Use centered layout
+- Use HTML inside markdown for advanced styling
+- Make it look like a premium developer portfolio
+- Make it visually immersive (3D illusion feel)
